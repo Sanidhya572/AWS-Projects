@@ -66,5 +66,7 @@ Attach an internet gateway to your VPC to enable internet access.
 ---
 
 ## 📷 (Optional) Diagram
-_Add an AWS VPC architecture diagram here for a more visual representation._  
+<img width="989" height="811" alt="image" src="https://github.com/user-attachments/assets/55fe0fce-01d3-4b37-95d4-7285f81ecfad" />
+
+
 
