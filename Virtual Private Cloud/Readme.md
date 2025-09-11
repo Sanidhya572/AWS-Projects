@@ -1,4 +1,6 @@
 # 🚀 Build a Virtual Private Cloud (VPC) in AWS
+<img width="989" height="811" alt="image" src="https://github.com/user-attachments/assets/e414cdd4-b780-48eb-a657-eb0dbc228093" />
+
 
 This project provides a **step-by-step guide** to building a Virtual Private Cloud (VPC) in AWS.  
 You’ll create a custom VPC, configure subnets, and attach an Internet Gateway to enable connectivity.  
@@ -67,6 +69,7 @@ Attach an internet gateway to your VPC to enable internet access.
 
 ## 📷 (Optional) Diagram
 <img width="989" height="811" alt="image" src="https://github.com/user-attachments/assets/55fe0fce-01d3-4b37-95d4-7285f81ecfad" />
+
 
 
 
