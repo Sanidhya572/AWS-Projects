@@ -1,4 +1,6 @@
 # 🔐 Cloud Security with AWS IAM - Step-by-Step Documentation  
+<img width="1742" height="1346" alt="image" src="https://github.com/user-attachments/assets/cf0b2002-1cce-45fb-b59e-c8133245d96f" />
+
 
 This project demonstrates how to implement **cloud security using AWS IAM**.  
 You will:  
@@ -96,3 +98,4 @@ By following this project, you have:
 🎉 Congrats! You’ve set up **IAM-based cloud security** in AWS.  
 
 ---
+
