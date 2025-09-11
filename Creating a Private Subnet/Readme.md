@@ -1,4 +1,6 @@
 # 🔒 Creating a Private Subnet in AWS
+<img width="837" height="736" alt="image" src="https://github.com/user-attachments/assets/63e0c0ac-b8a5-409c-8a34-1e9ce01ff2a9" />
+
 
 This project provides a **step-by-step guide** to setting up a **Private Subnet** inside an **Amazon Virtual Private Cloud (VPC)**.  
 It builds on earlier projects — *Build a Virtual Private Cloud* and *VPC Traffic Flow and Security* — and introduces **private networking** for workloads that should not have direct internet access.  
@@ -91,3 +93,4 @@ You will learn how to:
 🔗 [GitHub Profile](https://github.com/Sanidhya572)  
 
 ⭐ *If you found this project helpful, give it a star on GitHub!* ⭐
+
