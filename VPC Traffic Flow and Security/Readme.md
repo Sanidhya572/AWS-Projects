@@ -1,4 +1,6 @@
-# 🚀 VPC Traffic Flow and Security - Step-by-Step Documentation  
+# 🚀 VPC Traffic Flow and Security - Step-by-Step Documentation
+<img width="1485" height="812" alt="image" src="https://github.com/user-attachments/assets/aac2aae5-2839-4868-ae9a-65c094f8b2b8" />
+
 
 This project provides a **comprehensive, step-by-step guide** for setting up and securing an **Amazon VPC**.  
 It builds upon the earlier project *"Build a Virtual Private Cloud"* and extends it with **traffic flow** and **security configurations**.  
@@ -106,3 +108,4 @@ By following this guide, you’ve successfully:
 🎉 Congrats! Your VPC is now secure and internet-ready! 🚀  
 
 ---
+
