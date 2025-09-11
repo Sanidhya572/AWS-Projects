@@ -1,4 +1,6 @@
 # 🌐 Launching VPC Resources on AWS
+<img width="1009" height="733" alt="image" src="https://github.com/user-attachments/assets/f059c8ca-dbc8-436e-8185-67ccc96a14c4" />
+
 
 This project provides a **comprehensive, step-by-step guide** for launching resources into your **Amazon Virtual Private Cloud (VPC)**.  
 It builds on earlier projects — *Build a Virtual Private Cloud*, *VPC Traffic Flow and Security*, and *Creating a Private Subnet* — and extends them by covering **EC2 instances in public and private subnets** as well as the **VPC wizard**.
@@ -87,3 +89,4 @@ You will learn how to:
 🔗 [GitHub Profile](https://github.com/Sanidhya572)  
 
 ⭐ *If you found this useful, don’t forget to star the repository!* ⭐
+
