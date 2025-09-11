@@ -1,4 +1,6 @@
-# 🌐 Amazon S3 Static Website Hosting - Step-by-Step Documentation  
+# 🌐 Amazon S3 Static Website Hosting - Step-by-Step Documentation
+<img width="1944" height="908" alt="image" src="https://github.com/user-attachments/assets/e8557130-3969-4e1b-a641-4942a570d62a" />
+
 
 This project demonstrates how to **host a static website using Amazon S3**.  
 You will:  
@@ -80,3 +82,4 @@ Grant public read access to website files.
     }
   ]
 }
+
