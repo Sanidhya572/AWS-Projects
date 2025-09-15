@@ -1,4 +1,6 @@
 # 🌐 Testing VPC Connectivity (AWS Project)
+<img width="944" height="832" alt="image" src="https://github.com/user-attachments/assets/ea73e620-97e8-43b8-9262-20871849d429" />
+
 
 This project provides a **detailed, step-by-step guide** to setting up a Virtual Private Cloud (VPC) in AWS and testing connectivity between public and private EC2 instances as well as to the internet.  
 
@@ -131,3 +133,4 @@ Before starting, make sure you have:
 2. From Public Server terminal:  
    ```bash
    ping <Private IPv4 Address>
+
