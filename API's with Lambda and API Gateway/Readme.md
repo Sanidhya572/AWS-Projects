@@ -3,6 +3,8 @@
 This project will teach you how to **build a serverless API using AWS Lambda and Amazon API Gateway**.  
 It’s the **Logic Tier** in a **Three-Tier Architecture**, focusing on handling backend logic and exposing APIs to clients.  
 
+<img width="1596" height="1092" alt="image" src="https://github.com/user-attachments/assets/3866eb54-7f4b-4115-87e3-7ca6218b30b0" />
+
 ---
 
 ## 📋 Project Overview  
@@ -25,3 +27,4 @@ It’s the **Logic Tier** in a **Three-Tier Architecture**, focusing on handling
 ---
 
 👉 By the end of this project, you’ll have a **working API endpoint** powered by **Lambda + API Gateway** — ready to integrate with the Presentation Tier and Data Tier in upcoming projects.  
+
