@@ -4,6 +4,8 @@ This project will teach you how to **deploy a static website using Amazon S3 and
 It’s the first step in building a **Three-Tier Architecture**, focusing on the **Presentation Layer**.  
 
 ---
+<img width="2572" height="536" alt="image" src="https://github.com/user-attachments/assets/8a73148c-1173-41fb-bded-fe3559293d51" />
+
 
 ## 📋 Project Overview  
 
@@ -21,3 +23,4 @@ It’s the first step in building a **Three-Tier Architecture**, focusing on the
 - 🌐 Distribute content globally with **Amazon CloudFront**  
 - 🔒 Secure your S3 buckets using **Origin Access Control (OAC)**  
 - 💎 Compare **CloudFront vs. S3 static hosting** performance  
+
