@@ -25,6 +25,15 @@ This repository contains a collection of **hands-on AWS projects** ranging from 
 6. **[Cloud Security with IAM](./Cloud%20Security%20with%20IAM/)**  
    Manage users, roles, and IAM policies for secure access control.  
 
+7. **[Website Delivery with CloudFront](./Website%20Delivery%20with%20CloudFront/)**  
+   Deliver static websites globally with Amazon CloudFront and S3 (Presentation Tier).  
+
+8. **[APIs with Lambda + API Gateway](./APIs%20with%20Lambda%20+%20API%20Gateway/)**  
+   Build and deploy a serverless API with AWS Lambda and API Gateway (Logic Tier).  
+
+9. **[Fetch Data with Lambda + DynamoDB](./Fetch%20Data%20with%20Lambda%20+%20DynamoDB/)**  
+   Create a DynamoDB table and use Lambda to retrieve data securely (Data Tier).  
+
 ---
 
 ## 🎯 Learning Outcomes
@@ -34,6 +43,9 @@ By working through these projects, you will gain hands-on knowledge of:
 - **Core AWS Networking**: VPC, Subnets, Route Tables, NACLs, and Security Groups  
 - **Compute Services**: Launching and managing EC2 instances  
 - **Storage Services**: Hosting websites on Amazon S3  
+- **Content Delivery**: Using CloudFront to distribute content globally  
+- **Serverless Architectures**: Lambda functions and API Gateway for APIs  
+- **Databases**: Storing and retrieving data from DynamoDB with Lambda  
 - **Identity & Access Management (IAM)**: Securing cloud resources with policies  
 - **Best Practices** for security, scalability, and cost optimization  
 
