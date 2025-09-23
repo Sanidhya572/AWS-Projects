@@ -4,6 +4,7 @@ This project will teach you how to **store and retrieve data using DynamoDB with
 It’s the **Data Tier** in a **Three-Tier Architecture**, focusing on persistence and backend data retrieval.  
 
 ---
+<img width="2680" height="536" alt="image" src="https://github.com/user-attachments/assets/bf909253-c5c1-457c-a815-259a855f376f" />
 
 ## 📋 Project Overview  
 
@@ -26,3 +27,4 @@ It’s the **Data Tier** in a **Three-Tier Architecture**, focusing on persisten
 ---
 
 👉 By the end of this project, you’ll have a **Lambda function connected to DynamoDB** that can retrieve user data — completing the **Data Tier** of your 3-tier solution.  
+
