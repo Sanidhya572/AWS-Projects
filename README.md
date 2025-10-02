@@ -34,6 +34,12 @@ This repository contains a collection of **hands-on AWS projects** ranging from 
 9. **[Fetch Data with Lambda + DynamoDB](./Fetch%20Data%20with%20Lambda%20+%20DynamoDB/)**  
    Create a DynamoDB table and use Lambda to retrieve data securely (Data Tier).  
 
+10. **[Three-Tier Web Application](./Three-Tier%20Web%20Application/)**  
+    Build a complete **three-tier web app** with:  
+    - **S3 + CloudFront** for static website hosting (Presentation Tier)  
+    - **Lambda + API Gateway** for backend logic (Logic Tier)  
+    - **DynamoDB** for database storage (Data Tier)  
+
 ---
 
 ## 🎯 Learning Outcomes
@@ -47,6 +53,7 @@ By working through these projects, you will gain hands-on knowledge of:
 - **Serverless Architectures**: Lambda functions and API Gateway for APIs  
 - **Databases**: Storing and retrieving data from DynamoDB with Lambda  
 - **Identity & Access Management (IAM)**: Securing cloud resources with policies  
+- **Application Architecture**: Building scalable **three-tier web applications**  
 - **Best Practices** for security, scalability, and cost optimization  
 
 ---
