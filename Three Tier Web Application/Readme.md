@@ -1,5 +1,8 @@
 # Three-Tier Web Application on AWS
 
+<img width="2000" height="2588" alt="image" src="https://github.com/user-attachments/assets/8c6ab75f-0d44-4f4a-93c9-21be93c23b64" />
+
+
 ## 📌 Overview
 This project demonstrates how to build a **three-tier web application** using AWS services.  
 The application follows a common cloud architecture pattern with three layers:  
@@ -31,3 +34,4 @@ This architecture is widely used for **modern, cloud-native applications** becau
 
 ## 📌 Author
 Built with ☁️ and ☕ by **Sanidhya**  
+
